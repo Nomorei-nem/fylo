@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+}
+
+/* .curvy-image {
+	background-size: cover;
+} */
+
+/* .instagram-logo { */
+/* fill: linear-gradient(#d39b00, #cc008f, #7a1cd1); */
+/* stroke: black; */
+/* fill: pink;
+} */
+
+/* 
+class="rounded-full border-4 dark:border-white cursor-pointer hover:saturate-200 transition-all duration-300"
+class="fill-accentCyan" */
